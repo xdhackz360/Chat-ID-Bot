@@ -93,7 +93,7 @@ TEXT = {
         "Bot creator: @abirxdhackz 👨‍💻\n\n"
         "Donations: You can support the bot creator with the /donate command\n\n"
         "The bot is open source on GitHub 🌟\n"
-        "https://github.com/abirxdhackz/Chat-ID-Bot\n\n"
+        "https://github.com/abirxdhack/Chat-ID-Bot\n\n"
         "📢 For updates on the bot, subscribe to @abir_x_official."
     },
     "BUTTON_DEV": {"en": "Send message 👨‍💻"},
